@@ -1,6 +1,7 @@
 # Misterioso 013 aqui! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-## Estatísticas
+## My Stats
+
 <a href="https://github.com/misterioso013"><img src="https://github-readme-stats.vercel.app/api?username=misterioso013&show_icons=true&theme=dark"></a>
 <a href="https://github.com/misterioso013"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdev&layout=compact&theme=dark"></a>
 
@@ -17,3 +18,18 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## Social
+
+[![Discord](https://img.shields.io/badge/EntraAi-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ED8T3ed6ar)
+[![Instagram](https://img.shields.io/badge/@rosielvictor-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rosielvictor)
+[![Twitter](https://img.shields.io/badge/@RVictor013-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rvictor013)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hd_group)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosielvictor/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/helpdevelop)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/rejeitado013)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rosielvictor)
+
+
+
+
