@@ -1,6 +1,5 @@
-# Misterioso 013 aqui! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+# Misterioso 013 aqui! ✌️
 
-<a href="https://github.com/misterioso013"><img align="center" height="180rem" src="https://readme-typing-svg.herokuapp.com?color=%2307BBFF&center=verdadeiro&vCenter=falso&multiline=true&height=60&lines=Ol%C3%A1%2C+eu+me+chamo+Rosiel+Victor.;Saiba+tudo+sobre+mim%2C+agora..."></a>
 
 ### <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif" width="29px"> Building... </br>
 Meu nome é Rosiel Victor, tenho 22 anos e atualmente estou cursando **Ciências da Computação** na Estácio.<br>
