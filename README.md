@@ -1,9 +1,9 @@
 # Misterioso 013 aqui! ✌️
+Desenvolvedor Full Stack PHP e JavaScript.
 
+Com foco no desenvolvimento web e mobile, já trabalhei com algumas ferramentas como WordPress e Laravel em PHP, e Nodejs, React, React Native e Next.js em JavaScript.
 
-### <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif" width="29px"> Building... </br>
-Meu nome é Rosiel Victor, tenho 22 anos e atualmente estou cursando **Ciências da Computação** na Estácio.<br>
-Gosto de construir Websites/Blogs, Chatbots e aplicativos híbridos, React, React Native, NextJs e WordPress são as minhas tecnologias favoritas... [Baixe meu Currículo](https://github.com/misterioso013/misterioso013/raw/main/CV%20Meu%20Curr%C3%ADculo.pdf) e venha trabalhar junto comigo.
+Atualmente estou cursando **Ciências da computação** com previsão de término em 2025, até lá busco me aperfeiçoar nas tecnologias citadas acima e estou aberto a oportunidades na área. [Baixe meu Currículo](https://github.com/misterioso013/misterioso013/raw/main/CV%20Meu%20Curr%C3%ADculo.pdf).
 ## Minhas estatísticas
 
 <a href="https://github.com/misterioso013"><img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=misterioso013&show_icons=true&theme=dark"></a><a href="https://github.com/misterioso013"><img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdev&layout=compact&theme=dark"></a>
