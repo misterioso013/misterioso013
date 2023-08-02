@@ -1,7 +1,7 @@
 # Misterioso 013 aqui! ✌️
-Desenvolvedor Full Stack PHP e JavaScript.
+Desenvolvedor Full Stack PHP, Python e JavaScript.
 
-Com foco no desenvolvimento web e mobile, já trabalhei com algumas ferramentas como WordPress e Laravel em PHP, e Nodejs, React, React Native e Next.js em JavaScript.
+Com foco no desenvolvimento web e mobile, já trabalhei com algumas diversas tecnologias como WordPress, React, React Native e Nextjs.
 
 Atualmente estou cursando **Ciências da computação** com previsão de término em 2025, até lá busco me aperfeiçoar nas tecnologias citadas acima e estou aberto a oportunidades na área. [Baixe meu Currículo](https://github.com/misterioso013/misterioso013/raw/main/CV%20Meu%20Curr%C3%ADculo.pdf).
 ## Minhas estatísticas
@@ -13,6 +13,7 @@ Atualmente estou cursando **Ciências da computação** com previsão de términ
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
