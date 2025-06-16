@@ -132,4 +132,10 @@
   <img src="https://streak-stats.demolab.com?user=misterioso013&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<h3 align="left">🔥   Tempo codando :</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=4246&api_domain=hackatime.hackclub.com&theme=dracula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" height="220" alt="streak graph"  />
+</div>
+
 ###
